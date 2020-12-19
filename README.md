@@ -3,16 +3,16 @@ TECH 3500 - FINAL EXAM - Fall 2020
 
 Matthew Sabo
 Project #1
-http://eve.kean.edu/~msabo/MyProject1.html
+http://eve.kean.edu/~msabo/Project1/
 
-Description: My personal website
+Description: A personal website detailing personal interests and work experience.
 
 Project #2
-http://eve.kean.edu/~msabo/MyProject2.html
+http://eve.kean.edu/~msabo/Project2/
 
-Description: A front-end prototype of an E-commerce website
+Description: Prototype for the front-end of an e-commerce bicycle shop.
 
 Project #3
-http://eve.kean.edu/~msabo/MyProject3.html
+http://eve.kean.edu/~msabo/Project3/
 
-Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+Description: Prototype page for an online price comparison shop for baby items.
